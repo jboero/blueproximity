@@ -3,7 +3,7 @@
 # In honor of Seth Vidal https://www.redhat.com/it/blog/thank-you-seth-vidal
 
 Name:           blueproximity
-Version:        1.4.0
+Version:        1.4.1
 Release:        1%{?dist}
 Summary:        This software helps you add a little more security to your desktop. It does so by detecting one of your bluetooth devices, most likely your mobile phone, and keeping track of its distance.
 License:        GPLv2
